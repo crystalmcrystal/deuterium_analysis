@@ -5,6 +5,8 @@ The Balmer optical emission series in particular is being studed.
 Crystal Notes:
 DG - refers to a focus on the Delta and Gamma Balmer lines
 Files are named according to integration time of the spectrometer
+Integration time * scan to average = 4000
+Spectrometer is apporximately 8 cm away from discharge source and aligned by line of sight (LoS) axis.
 
 Spectrometer Notes:
 Active Pixel range: 0-3647
