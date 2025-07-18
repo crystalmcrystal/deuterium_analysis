@@ -1,0 +1,24 @@
+API Version  : 3.1.0 
+Total Device : 1     
+
+First Device : 2       
+Serial Number: SR401491     
+
+acquisitionDelay(device): acqDelay     =  400 
+acquisitionDelay(device): acqDelayInc  =  1 
+acquisitionDelay(device): acqDelayMin  =  0 
+acquisitionDelay(device): acqDelayMax  =  335500 
+
+acquisitionDelay(device): set acqDelay =  400 
+acquisitionDelay(device): get acqDelay(expected 400)  =  400 
+
+Reading spectra for dev s/n = SR401491
+spectra [0] λ = 344.912 - 346.001: -170, -170, -151, -222, 38, 14
+spectra [0] λ = 409.830 - 410.905: 4238, 4096, 1172, 229, 220, 102
+spectra [0] λ = 433.397 - 434.465: 20871, 31790, 30224, 13785, 4232, 891
+spectra [0] λ = 485.816 - 486.870: 63188, 63188, 63188, 63188, 63188, 63188
+spectra [0] λ = 505.365 - 506.413: 73, 109, 89, 136, 51, 161
+len(spectra) =  3648
+Closing device!
+
+**** exiting program ****
