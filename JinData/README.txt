@@ -1,1 +1,1 @@
-# Jin OceanDirect Spectroscopy data taken November 2024 using a deuterium discharge tube approximately 6-8 cm away from discharge source with a constant integration time of 1000 ms.
+# Jin OceanDirect Spectroscopy data taken November 2024 using a deuterium discharge tube approximately 6-8 cm away from discharge source with a constant integration time of 1000 ms. Data is taken using OceanDirect.
