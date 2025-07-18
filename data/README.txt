@@ -7,6 +7,7 @@ DG - refers to a focus on the Delta and Gamma Balmer lines
 Files are named according to integration time of the spectrometer
 Integration time * scan to average = 4000
 Spectrometer is apporximately 8 cm away from discharge source and aligned by line of sight (LoS) axis.
+Spectrum (alpha) saturates at approximately 8ms integration time.
 
 Spectrometer Notes:
 Active Pixel range: 0-3647
