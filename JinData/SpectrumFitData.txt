@@ -1,0 +1,14 @@
+D:/Project8/ECR_Cavity/OpticalEmissionSpectroscopy/OceanOptics/Hydrogen_SR4014911.xlsx
+------------------------------------------------------------
+                    Amplitude           Amplitude Err       Mean                Mean Err            Sigma               Sigma Err           FWHM                
+delta               2346.37224          154.60330           409.10224           1.57727             10.64600            2.10214             25.06942            
+gamma               38343.29756         1931.22584          433.43202           0.01829             0.31457             0.01831             0.74075             
+beta                72399.17963         2388.00119          485.33451           0.05899             1.54889             0.05899             3.64735             
+                                                            
+D:/Project8/ECR_Cavity/OpticalEmissionSpectroscopy/OceanOptics/Spectra_output_0_1732215328.xlsx
+------------------------------------------------------------
+                    Amplitude           Amplitude Err       Mean                Mean Err            Sigma               Sigma Err           FWHM                
+delta               1347.73172          162.79906           409.34436           1.44464             7.50929             1.70109             17.68302            
+gamma               39983.64526         1569.66114          433.43478           0.01319             0.29103             0.01319             0.68532             
+beta                73071.14586         2420.41716          485.33724           0.05853             1.53036             0.05853             3.60373             
+                                                            
